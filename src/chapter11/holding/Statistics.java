@@ -12,7 +12,7 @@ public class Statistics {
     public static void main(String[] args) {
         Random random=new Random(47);
         Map<Integer,Integer>  m=new HashMap<Integer, Integer>();
-        for(int i=0;i<10000;i++){
+        for(int i=0;i<10;i++){
             int r=random.nextInt(20);
             Integer freq=m.get(r);
             m.put(r,freq==null?1:freq+1);
