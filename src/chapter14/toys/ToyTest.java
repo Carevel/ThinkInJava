@@ -7,7 +7,8 @@ interface HasBatteries{}
 interface Wateproof{}
 interface Shoots{}
 class Toy{
-    Toy(){}
+    //注释下段代码会无法实例化
+   // Toy(){}
     Toy(int i){}
 }
 class FancyToy extends Toy implements HasBatteries,Wateproof,Shoots{
