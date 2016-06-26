@@ -1,4 +1,4 @@
-package chapter14.toys;
+package chapter14.typeinfo.toys;
 
 /**
  * Created by Changjiang on 2016/6/25.
@@ -25,7 +25,7 @@ public class ToyTest {
     public static void main(String[] args) {
         Class c=null;
         try {
-            c=Class.forName("chapter14.toys.FancyToy");
+            c=Class.forName("chapter14.typeinfo.toys.FancyToy");
         } catch (ClassNotFoundException e) {
             System.out.println("Can`t find FancyToy");
         }
