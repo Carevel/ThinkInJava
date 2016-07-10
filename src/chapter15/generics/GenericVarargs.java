@@ -3,6 +3,7 @@ package chapter15.generics;
 import java.util.*;
 /**
  * Created by Changjiang on 2016/07/02.
+ * 范型
  */
 public class GenericVarargs {
     public static <T> List<T> makeList(T... args){
