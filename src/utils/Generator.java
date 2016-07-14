@@ -5,7 +5,7 @@ package utils;
  */
 
 /**
- * 范型生成器
+ * 范型类生成器
  * @param <T>
  */
 public interface Generator<T> {
