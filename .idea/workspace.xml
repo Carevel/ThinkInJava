@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dec691b-2a4c-4f29-a54a-8a6f17eff9ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter14/typeinfo/SweetShop.java" />
+    <list default="true" id="3dec691b-2a4c-4f29-a54a-8a6f17eff9ed" name="Default" comment="merge&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ThinkInJava.iws" />
@@ -16,10 +15,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ThinkInJava$SimpleIterator.coverage" NAME="SimpleIterator Coverage Results" MODIFIED="1454251579236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>chapter11.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ThinkInJava$ShowMethods.coverage" NAME="ShowMethods Coverage Results" MODIFIED="1467036837394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter14.typeinfo.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/ThinkInJava$AddingGroups.coverage" NAME="AddingGroups Coverage Results" MODIFIED="1459951684746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>chapter11.*</FILTER>
@@ -34,93 +35,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WhitherStringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/WhitherStringBuilder.java">
+      <file leaf-file-name="MapData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utils/MapData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="42">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsingStringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/UsingStringBuilder.java">
+      <file leaf-file-name="CollectionData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/CollectionData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="175">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerMatch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/IntegerMatch.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="2000">
+              <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Splitting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/Splitting.java">
+      <file leaf-file-name="AbstractList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/AbstractList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="1075">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SplitDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/SplitDemo.java">
+      <file leaf-file-name="Map.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/java/util/Map.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/Person.java">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="8325">
+              <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shapes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/Shapes.java">
+      <file leaf-file-name="AbstractMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/AbstractMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="497">
+              <caret line="457" column="49" selection-start-line="457" selection-start-column="49" selection-end-line="457" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapDataTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter17/containers/MapDataTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SweetShop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/SweetShop.java">
+      <file leaf-file-name="Beetle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter7/Beetle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/struts.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -131,6 +138,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -160,45 +169,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter10/innerclass/sequence.java" />
-        <option value="$PROJECT_DIR$/src/Chapter10/innerclass/TequenctTest.java" />
-        <option value="$PROJECT_DIR$/src/polymorphism/shape/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/ApplesAndOrangesWithoutGeneric.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/ApplesAndOrangesWithGeneric.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/GenericAndUpcasting.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/Gerbil.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/SimpleCollection.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/SimpleIterator.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/Test01.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/PrintingContaiers.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/AddingGroups.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/AsListInference.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/PrintingContainers.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/SimpleIterattion.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/Pet.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/SimpleIteration.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/CrossContainerIteration.java" />
-        <option value="$PROJECT_DIR$/src/com/thinkinjava/chapter11/SimpleCollection.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/ListIteratoion.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/LinkedListFeatures.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/Stack.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/SetOfInteger.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/Person.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/MapOfList.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/QueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/ForEachCollections.java" />
-        <option value="$PROJECT_DIR$/src/chapter11/holding/IteratorClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/Immutable.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/Concatenation.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/WhitherStringBuilder.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/UsingStringBuilder.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/IntegerMatch.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/Splitting.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/strings/strings/SplitDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/typeinfo/Shape.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/typeinfo/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/typeinfo/SweetShop.java" />
+        <option value="$PROJECT_DIR$/src/utils/TwoTuple.java" />
+        <option value="$PROJECT_DIR$/src/utils/ThreeTuple.java" />
+        <option value="$PROJECT_DIR$/src/utils/FourTuple.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/RandomList.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Latte.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Cappuccino.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Americano.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/Breve.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/coffee/CoffeeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/GenericMethods.java" />
+        <option value="$PROJECT_DIR$/src/utils/New.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/Generators.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/GenericVarargs.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/CountObject.java" />
+        <option value="$PROJECT_DIR$/src/utils/Generator.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/BasicGenerator.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/BasicGeneratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/utils/Tuple.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/TupleTest2.java" />
+        <option value="$PROJECT_DIR$/src/utils/Sets.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/TupleTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/TurpleList.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/Store.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ErasedTypeEquivalence.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/LostInformation.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/HasF.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/Manipulator2.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ErasureAndInheritance.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ArrayMake.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ArrayMaker.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ArrayMaker2.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/FilledListMaker.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ListMaker.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/SimpleHolder.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/GenericHolder.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/Erased.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/ClassTypeCapture.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/InstantiateGenericType.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/generics/FactoryConstraint.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/containers/FillingLists.java" />
+        <option value="$PROJECT_DIR$/src/utils/CollectionData.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/containers/CollectionDataTest.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/containers/CollectionDataGeneration.java" />
+        <option value="$PROJECT_DIR$/src/utils/Pair.java" />
+        <option value="$PROJECT_DIR$/src/utils/MapData.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/containers/MapDataTest.java" />
+        <option value="C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/sun/font/AttributeMap.class" />
       </list>
     </option>
   </component>
@@ -315,11 +336,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SweetShop.java" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MapDataTest.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,11 +376,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
+              <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Shapes.java" />
+              <option name="myItemId" value="FillingLists.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,15 +398,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
+              <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollectionDataTest.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beetle.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,20 +477,21 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Map&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/java/util/Map.class" />
   </component>
-  <component name="RunManager" selected="Application.SweetShop">
-    <configuration default="false" name="IntegerMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MapDataTest">
+    <configuration default="false" name="FactoryConstraint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter13.strings.strings.*" />
+          <option name="PATTERN" value="chapter15.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter13.strings.strings.IntegerMatch" />
+      <option name="MAIN_CLASS_NAME" value="chapter15.generics.FactoryConstraint" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,14 +504,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Splitting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FillingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter13.strings.strings.*" />
+          <option name="PATTERN" value="chapter17.containers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter13.strings.strings.Splitting" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.containers.FillingLists" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -422,14 +524,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SplitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CollectionDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter13.strings.strings.*" />
+          <option name="PATTERN" value="chapter17.containers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter13.strings.strings.SplitDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.containers.CollectionDataTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,14 +544,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CollectionDataGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter14.typeinfo.*" />
+          <option name="PATTERN" value="chapter17.containers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter14.typeinfo.Shapes" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.containers.CollectionDataGeneration" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -462,14 +564,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MapDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter14.typeinfo.*" />
+          <option name="PATTERN" value="chapter17.containers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter14.typeinfo.SweetShop" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.containers.MapDataTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -512,11 +614,19 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -532,9 +642,17 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <method />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -616,6 +734,9 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -895,19 +1016,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IntegerMatch" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Splitting" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SplitDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Shapes" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SweetShop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FactoryConstraint" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FillingLists" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CollectionDataGeneration" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MapDataTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SweetShop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Shapes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SplitDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Splitting" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IntegerMatch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MapDataTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CollectionDataGeneration" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FillingLists" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FactoryConstraint" />
       </list>
     </recent_temporary>
   </component>
@@ -994,7 +1115,38 @@
       <workItem from="1466261830986" duration="1201000" />
       <workItem from="1466300932655" duration="2792000" />
       <workItem from="1466308037365" duration="1207000" />
-      <workItem from="1466822479956" duration="2177000" />
+      <workItem from="1466822479956" duration="6984000" />
+      <workItem from="1466904366397" duration="15090000" />
+      <workItem from="1467032445980" duration="2413000" />
+      <workItem from="1467036993850" duration="3471000" />
+      <workItem from="1467115140157" duration="8210000" />
+      <workItem from="1467206549462" duration="6385000" />
+      <workItem from="1467217082343" duration="2413000" />
+      <workItem from="1467294526039" duration="2963000" />
+      <workItem from="1467372676522" duration="9245000" />
+      <workItem from="1467421994502" duration="4364000" />
+      <workItem from="1467506505527" duration="8173000" />
+      <workItem from="1467555057470" duration="3971000" />
+      <workItem from="1467639050780" duration="1037000" />
+      <workItem from="1467814371447" duration="2436000" />
+      <workItem from="1468079019604" duration="1517000" />
+      <workItem from="1468116322823" duration="2307000" />
+      <workItem from="1468119365237" duration="8575000" />
+      <workItem from="1468246349217" duration="2183000" />
+      <workItem from="1468328201548" duration="6379000" />
+      <workItem from="1468339722526" duration="77000" />
+      <workItem from="1468421539615" duration="72000" />
+      <workItem from="1468422936514" duration="819000" />
+      <workItem from="1468497034674" duration="9418000" />
+      <workItem from="1468599606962" duration="875000" />
+      <workItem from="1468633024251" duration="1282000" />
+      <workItem from="1468681377094" duration="3933000" />
+      <workItem from="1468686944097" duration="1009000" />
+      <workItem from="1468688534202" duration="147000" />
+      <workItem from="1468720130733" duration="3635000" />
+      <workItem from="1468724506383" duration="37000" />
+      <workItem from="1468726519149" duration="44000" />
+      <workItem from="1468726774284" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="merge&#10;">
       <created>1460472995700</created>
@@ -1073,44 +1225,158 @@
       <option name="project" value="LOCAL" />
       <updated>1466002945061</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="merge&#10;">
+      <created>1466828486155</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1466828486155</updated>
+    </task>
+    <task id="LOCAL-00013" summary="merge&#10;">
+      <created>1466870166956</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1466870166956</updated>
+    </task>
+    <task id="LOCAL-00014" summary="merge&#10;">
+      <created>1466906481791</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1466906481791</updated>
+    </task>
+    <task id="LOCAL-00015" summary="merge&#10;">
+      <created>1466955388819</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1466955388819</updated>
+    </task>
+    <task id="LOCAL-00016" summary="merge&#10;">
+      <created>1467125832078</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1467125832078</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merge&#10;">
+      <created>1467127948282</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1467127948282</updated>
+    </task>
+    <task id="LOCAL-00018" summary="merge&#10;">
+      <created>1467213260307</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1467213260307</updated>
+    </task>
+    <task id="LOCAL-00019" summary="merge&#10;">
+      <created>1467213327388</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1467213327388</updated>
+    </task>
+    <task id="LOCAL-00020" summary="merge&#10;">
+      <created>1467299054990</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1467299054990</updated>
+    </task>
+    <task id="LOCAL-00021" summary="merge&#10;">
+      <created>1467470939520</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1467470939520</updated>
+    </task>
+    <task id="LOCAL-00022" summary="merge&#10;">
+      <created>1467470974685</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1467470974685</updated>
+    </task>
+    <task id="LOCAL-00023" summary="merge&#10;">
+      <created>1468158044153</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1468158044153</updated>
+    </task>
+    <task id="LOCAL-00024" summary="merge&#10;">
+      <created>1468339747552</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1468339747552</updated>
+    </task>
+    <task id="LOCAL-00025" summary="merge&#10;">
+      <created>1468498958314</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1468498958314</updated>
+    </task>
+    <task id="LOCAL-00026" summary="merge&#10;">
+      <created>1468727597290</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1468727597290</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121224000" />
+    <option name="totallyTimeSpent" value="239208000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49270833" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.48821008" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33972913" sideWeight="0.6141479" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33972913" sideWeight="0.6463022" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33972913" sideWeight="0.3858521" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49517685" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33861834" sideWeight="0.35369775" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25669882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2545552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.49785638" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39637598" sideWeight="0.52357984" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.534375" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1145,11 +1411,23 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter15/generics/LinkedStack.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter17/containers/CollectionDataTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="30" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1158,257 +1436,375 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Iterator.java" />
-    <entry file="file://$PROJECT_DIR$/ThinkInJava.iml">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/BasicGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="78">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Collection.java" />
-    <entry file="file://$PROJECT_DIR$/web/test.jsp">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/BasicGeneratorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Test01.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/SimpleCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/GenericVarargs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="275">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/SimpleIterator.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/AsListInference.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/New.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="450">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/PrintingContainers.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/TwoTuple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="325">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Random.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/List.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Collections.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/SimpleIterattion.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/SimpleIteration.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/Sets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/CrossContainerIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
+        <state relative-caret-position="575">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/AddingGroups.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/TupleTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thinkinjava/chapter11/SimpleCollection.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/ListIteratoion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/LinkedListFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Vector.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/SetOfInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/StackGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/MapOfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="375">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/AbstractQueue.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Queue.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/QueueDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/Tuple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="225">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/ForEachCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/lang/Iterable.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter11/holding/IteratorClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5475">
-          <caret line="258" column="22" selection-start-line="258" selection-start-column="22" selection-end-line="258" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/Immutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/Concatenation.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/ThreeTuple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/WhitherStringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/TupleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/UsingStringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/TurpleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="400">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/IntegerMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/Generators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="253">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/Splitting.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/LostInformation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter13/strings/strings/SplitDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/HasF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="175">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/Person.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="167">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1108">
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ArrayMaker2.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/Manipulator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ArrayMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ErasedTypeEquivalence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ErasureAndInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ListMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/FilledListMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/SimpleHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/GenericHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/Erased.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="351" column="35" selection-start-line="351" selection-start-column="35" selection-end-line="351" selection-end-column="35" />
+        <state relative-caret-position="184">
+          <caret line="482" column="26" selection-start-line="482" selection-start-column="26" selection-end-line="482" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/ClassTypeCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/InstantiateGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="848" column="11" selection-start-line="848" selection-start-column="11" selection-end-line="848" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/generics/FactoryConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="166" column="11" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/containers/FillingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/Shapes.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/FourTuple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="350">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/containers/CollectionDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/containers/CollectionDataGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/typeinfo/SweetShop.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="275">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/CollectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="2000">
+          <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/java/util/Map.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8325">
+          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1091">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/sun/font/AttributeMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="457" column="49" selection-start-line="457" selection-start-column="49" selection-end-line="457" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/Beetle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/containers/MapDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/MapData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding />
         </state>
       </provider>
