@@ -1,6 +1,7 @@
 package chapter15.generics;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -14,5 +15,6 @@ public class ListMaker<T> {
     public static void main(String[] args) {
         ListMaker<String> stringListMaker=new ListMaker<String>();
         List<String> strings=stringListMaker.create();
+        System.out.println(strings);
     }
 }
