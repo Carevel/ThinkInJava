@@ -1,0 +1,11 @@
+package chapter15.generics.watercolors;
+
+/**
+ * Created by Changjiang on 2016/11/22.
+ */
+public enum WaterColors {
+    ZINC, LEMON_YELLOW, MEDIUM_YELLOW, DEEP_YELLOW, ORANGE,
+    BRILLIANT_RED, CRIMSON, MAGENTA, ROSE_MADDER,
+    VIOLET, CERULEAN_BULE_HUE, PHTHALO_BLUE, ULTRAMRINE,
+    COBALT_BLUE_HUE, PERMANGNT_GREEN, VIRIDIAN_YHUE
+}
